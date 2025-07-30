@@ -1,0 +1,38 @@
+{
+  "laws": [
+    {
+      "id": 1,
+      "title": "Data Protection Act",
+      "description": "Regulates the processing of personal data.",
+      "sections": [
+        {
+          "section_id": "1",
+          "title": "General Provisions",
+          "content": "This section covers the general provisions of the Data Protection Act."
+        },
+        {
+          "section_id": "2",
+          "title": "Rights of Data Subjects",
+          "content": "This section outlines the rights of individuals regarding their personal data."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Consumer Protection Act",
+      "description": "Protects consumers against unfair trade practices.",
+      "sections": [
+        {
+          "section_id": "1",
+          "title": "Definitions",
+          "content": "This section defines key terms used in the Consumer Protection Act."
+        },
+        {
+          "section_id": "2",
+          "title": "Consumer Rights",
+          "content": "This section describes the rights granted to consumers."
+        }
+      ]
+    }
+  ]
+}

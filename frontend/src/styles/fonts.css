@@ -1,0 +1,5 @@
+/* Optional font styles */
+@font-face {
+  font-family: 'Gemini';
+  src: local('Segoe UI'), local('Roboto'), sans-serif;
+}
