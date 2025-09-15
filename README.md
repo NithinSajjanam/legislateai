@@ -59,3 +59,31 @@ npm run start
   "reply": "Under Indian law, a tenant has the right to... [structured legal response]",
   "timestamp": "2025-09-15T12:34:56Z"
 }
+
+
+---
+
+## 📝 Short Concise README
+
+```markdown
+# 🏛️ LegislateAI
+
+LegislateAI is a legal assistant powered by Google Gemini API that answers legal questions in a structured JSON format.
+
+---
+
+## 🚀 Features
+
+- Natural language legal query
+- Jurisdiction-based responses
+- Rate limiting and queue handling
+
+---
+
+## ⚙️ Quick Start
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/yourusername/legislateai.git
+
+
